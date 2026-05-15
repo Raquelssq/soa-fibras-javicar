@@ -1,4 +1,4 @@
-package com.fibrasjavicar.inventario_service;
+package com.fibrasjavicar.inventarioservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

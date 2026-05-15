@@ -1,4 +1,4 @@
-package com.fibrasjavicar.inventario_service;
+package com.fibrasjavicar.inventarioservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
